@@ -22,7 +22,7 @@ or even a raspberry Pi should work.
 nxbt macros look like this (this is an old MP1 loop):
 
 ```
-MACRO = """
+COMPLETE_MP1_LOOP = """
 A 0.2s
 6s
 LOOP 70
