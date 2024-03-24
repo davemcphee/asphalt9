@@ -42,8 +42,7 @@ PLUS 0.2s
 B 0.2s
 2.5s
 A 0.2s
-3.5
-s"""
+3.5s"""
 ```
 
 Each line contains either button / stick instructions (`A 0.2s`: Pres the A button for 0.2s), loop definitions (`LOOP 70`:
